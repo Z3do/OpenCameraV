@@ -6,7 +6,7 @@ This version is available from *GameBuild* **1604** to **3407**.
 
 ---
 
-## Supported GTA V Game Builds:
+## Supported FiveM Game Builds:
 
 - ✅ 1604 (confirmed)
 - ✅ 2060 (confirmed)
